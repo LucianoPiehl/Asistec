@@ -13,7 +13,6 @@
 <?php session_unset(); } ?>
                  <!-- TABLA AÑADIR ID -->
 <input type="submit" value="Añadir Profesor" class="btn btn-success" onclick = "location='../abmfuncionesgenerales/InsertarProfesor.php'"/>
-
 		<div class="col-md-8">
 			<table class="table table-bordered">
 				<thead>
